@@ -13,3 +13,8 @@
 2. Week 2 - Questions 4, 6, 8, 10, extra credit
 3. Week 3 - Creating the report; Any cleanup tasks; Combine code
 
+### Ownership
+
+1. Luke: 1, 2
+2. Joe: 3, 5
+3. Beibarys: 7, 9
