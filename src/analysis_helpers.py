@@ -7,6 +7,9 @@ def side_by_side_bar_plot(
         y_vals_left,
         y_vals_right,
         bar_width=0.35,
+        gap=0,
+        include_bar_value_labels=False,
+        bar_label_font_size=8,
         title=None,
         x_axis_label=None,
         y_axis_label=None,
@@ -20,6 +23,9 @@ def side_by_side_bar_plot(
         y_vals_left (Iterable[int or float]): The heights of the left set of bars.
         y_vals_right (Iterable[int or float]): The heights of the right set of bars.
         bar_width (int or float): Width of a singular bar.
+        gap (int or float): Gap between side-by-side bars. Default is 0.
+        include_bar_value_labels (bool): Whether or not to include value labels for each bar. Default is False.
+        bar_label_font_size (int): Font size of bar labels
         title (str): The title of the plot.
         x_axis_label (str): Label for the x-axis.
         y_axis_label (str): Label for the y-axis.
@@ -30,12 +36,13 @@ def side_by_side_bar_plot(
     x_positions = np.arange(len(x_vals))
 
     # Plot
-    bars_left = plt.bar(x_positions - bar_width/2, y_vals_left, bar_width, label=y_vals_left_legend_label)
-    bars_right = plt.bar(x_positions + bar_width/2, y_vals_right, bar_width, label=y_vals_right_legend_label)
+    bars_left = plt.bar(x_positions - bar_width/2 - gap/2, y_vals_left, bar_width, label=y_vals_left_legend_label)
+    bars_right = plt.bar(x_positions + bar_width/2 + gap/2, y_vals_right, bar_width, label=y_vals_right_legend_label)
 
     # Adding value labels to the bars
-    plt.bar_label(bars_left, padding=1)
-    plt.bar_label(bars_right, padding=1)
+    if include_bar_value_labels:
+        plt.bar_label(bars_left, padding=1, fontsize=bar_label_font_size)
+        plt.bar_label(bars_right, padding=1, fontsize=bar_label_font_size)
 
     # Adding labels and title
     plt.xlabel(x_axis_label)
