@@ -1,0 +1,400 @@
+title,id,genres,runtime_seconds,number_of_writers
+The Life of David Gale (2003),tt0289992,"['Crime', 'Drama', 'Mystery', 'Thriller']",7800.0,1.0
+Wing Commander (1999),tt0131646,"['Action', 'Adventure', 'Sci-Fi']",6000.0,2.0
+Django Unchained (2012),tt1853728,"['Drama', 'Western']",9900.0,1.0
+Alien (1979),tt0078748,"['Horror', 'Sci-Fi']",7020.0,2.0
+Indiana Jones and the Last Crusade (1989),tt0097576,"['Action', 'Adventure']",7620.0,3.0
+Snatch (2000),tt0208092,"['Comedy', 'Crime']",6120.0,1.0
+Rambo: First Blood Part II (1985),tt0089880,"['Action', 'Adventure', 'Thriller']",5760.0,3.0
+Fargo (1996),tt0116282,"['Crime', 'Drama', 'Thriller']",5880.0,2.0
+Let the Right One In (2008),tt1139797,"['Drama', 'Fantasy', 'Horror', 'Romance']",6840.0,1.0
+Black Swan (2010),tt0947798,"['Drama', 'Thriller']",6480.0,3.0
+King Kong (1976),tt0074751,"['Adventure', 'Horror']",8040.0,3.0
+The Machinist (2004),tt0361862,"['Drama', 'Thriller']",6060.0,1.0
+A Nightmare on Elm Street (1984),tt0087800,['Horror'],5460.0,1.0
+Brazil (1985),tt0088846,"['Drama', 'Sci-Fi', 'Thriller']",7920.0,3.0
+The Fast and the Furious (2001),tt0232500,"['Action', 'Crime', 'Thriller']",6360.0,3.0
+Change of Habit (1969),tt0065537,"['Crime', 'Drama', 'Music', 'Romance']",5580.0,3.0
+American Beauty (1999),tt0169547,['Drama'],7320.0,1.0
+Psycho (1960),tt0054215,"['Drama', 'Horror', 'Mystery', 'Thriller']",6540.0,2.0
+Terminator 3: Rise of the Machines (2003),tt0181852,"['Action', 'Sci-Fi']",6540.0,3.0
+Night of the Living Dead (1968),tt0063350,"['Horror', 'Thriller']",5760.0,2.0
+Man on Fire (2004),tt0328107,"['Action', 'Crime', 'Drama', 'Thriller']",8760.0,2.0
+Star Wars: Episode IV - A New Hope (1977),tt0076759,"['Action', 'Adventure', 'Fantasy', 'Sci-Fi']",7260.0,1.0
+The Silence of the Lambs (1991),tt0102926,"['Crime', 'Drama', 'Horror', 'Thriller']",7080.0,2.0
+The Others (2001),tt0230600,"['Horror', 'Mystery', 'Thriller']",6240.0,1.0
+Minority Report (2002),tt0181689,"['Action', 'Crime', 'Mystery', 'Sci-Fi', 'Thriller']",8700.0,3.0
+Sling Blade (1996),tt0117666,['Drama'],8100.0,1.0
+Schindler's List (1993),tt0108052,"['Biography', 'Drama', 'History']",11700.0,2.0
+3000 Miles to Graceland (2001),tt0233142,"['Action', 'Comedy', 'Crime', 'Thriller']",7500.0,3.0
+Magnolia (1999),tt0175880,['Drama'],11280.0,1.0
+The Karate Kid Part II (1986),tt0091326,"['Action', 'Family', 'Sport']",6780.0,1.0
+Planet of the Apes (2001),tt0133152,"['Action', 'Adventure', 'Sci-Fi']",7200.0,3.0
+The Godfather: Part II (1974),,,,
+Indiana Jones and the Temple of Doom (1984),tt0087469,"['Action', 'Adventure']",7080.0,3.0
+Indiana Jones and the Raiders of the Lost Ark (1981),,,,
+The Iron Giant (1999),tt0129167,"['Animation', 'Action', 'Adventure']",5160.0,3.0
+The Matrix Revolutions (2003),tt0242653,"['Action', 'Sci-Fi']",7740.0,2.0
+North (1994),tt0110687,"['Adventure', 'Comedy', 'Drama', 'Family', 'Fantasy']",5220.0,2.0
+The Lost World: Jurassic Park (1997),tt0119567,"['Action', 'Adventure', 'Sci-Fi']",7740.0,2.0
+The Texas Chainsaw Massacre (1974),,,,
+Taxi Driver (1976),tt0075314,"['Crime', 'Drama']",6840.0,1.0
+Back to the Future (1985),tt0088763,"['Adventure', 'Comedy', 'Sci-Fi']",6960.0,2.0
+13 Going on 30 (2004),tt0337563,"['Comedy', 'Fantasy', 'Romance']",5880.0,2.0
+Sorority Boys (2002),tt0279781,['Comedy'],5580.0,2.0
+The Bridges of Madison County (1995),tt0112579,"['Drama', 'Romance']",8100.0,2.0
+Billy Madison (1995),tt0112508,['Comedy'],5340.0,2.0
+Chain Reaction (1996),tt0115857,"['Action', 'Drama', 'Sci-Fi', 'Thriller']",6420.0,3.0
+Batman & Robin (1997),tt0118688,"['Action', 'Sci-Fi']",7500.0,2.0
+Jurassic Park III (2001),tt0163025,"['Action', 'Adventure', 'Sci-Fi', 'Thriller']",5520.0,3.0
+Platoon (1986),tt0091763,"['Drama', 'War']",7200.0,1.0
+Signs (2002),tt0286106,"['Drama', 'Mystery', 'Sci-Fi', 'Thriller']",6360.0,1.0
+Terms of Endearment (1983),tt0086425,"['Comedy', 'Drama']",7920.0,2.0
+Mission: Impossible II (2000),tt0120755,"['Action', 'Adventure', 'Thriller']",7380.0,3.0
+Lost in Translation (2003),tt0335266,"['Comedy', 'Drama']",6120.0,1.0
+Star Trek: The Motion Picture (1979),tt0079945,"['Adventure', 'Mystery', 'Sci-Fi']",8580.0,3.0
+Inglorious Bastards (2009),,,,
+Clueless (1995),tt0112697,"['Comedy', 'Romance']",5820.0,1.0
+The Omen (1976),tt0075005,"['Horror', 'Mystery']",6660.0,2.0
+Shrek 2 (2004),tt0298148,"['Animation', 'Adventure', 'Comedy']",5580.0,3.0
+Good Will Hunting (1997),tt0119217,"['Drama', 'Romance']",7560.0,2.0
+Just Like Heaven (2005),tt0425123,"['Comedy', 'Drama', 'Fantasy']",5700.0,3.0
+Showgirls (1995),tt0114436,['Drama'],7860.0,1.0
+Diamonds are Forever (1971),tt0066995,"['Action', 'Adventure', 'Thriller']",7200.0,3.0
+Crossroads (2002),tt0275022,"['Comedy', 'Drama', 'Romance']",5580.0,1.0
+Pieces of April (2003),tt0311648,"['Comedy', 'Drama']",4800.0,1.0
+Torque (2004),tt0329691,"['Action', 'Comedy', 'Crime']",5040.0,1.0
+Poltergeist (1982),tt0084516,"['Horror', 'Thriller']",6840.0,3.0
+Fear and Loathing in Las Vegas (1998),tt0120669,"['Adventure', 'Comedy', 'Drama']",7080.0,3.0
+Barbarella (1968),tt0062711,"['Action', 'Adventure', 'Fantasy']",5880.0,3.0
+The King of Marvin Gardens (1972),tt0068805,['Drama'],6180.0,2.0
+The Poseidon Adventure (1972),tt0069113,"['Action', 'Adventure', 'Drama', 'Thriller']",7020.0,3.0
+The Rock (1996),tt0117500,"['Action', 'Adventure', 'Thriller']",8160.0,3.0
+Love Story (1970),tt0066011,"['Drama', 'Romance']",6000.0,1.0
+The Last Samurai (2003),tt0325710,"['Action', 'Drama']",9240.0,3.0
+The Jungle Book (1967),tt0061852,"['Animation', 'Adventure', 'Comedy']",4680.0,3.0
+The Exorcist (1973),tt0070047,['Horror'],7320.0,1.0
+Pirates of the Caribbean: Dead Man's Chest (2006),tt0383574,"['Action', 'Adventure', 'Fantasy']",9060.0,3.0
+Gone in Sixty Seconds (2000),tt0187078,"['Action', 'Crime', 'Thriller']",7080.0,2.0
+Funny Girl (1968),tt0062994,"['Biography', 'Comedy', 'Drama']",9060.0,1.0
+Honey (2003),tt0322589,"['Drama', 'Music', 'Romance']",5640.0,2.0
+Blues Brothers 2000 (1998),tt0118747,"['Action', 'Comedy', 'Crime']",7380.0,2.0
+Avatar (2009),tt0499549,"['Action', 'Adventure', 'Fantasy', 'Sci-Fi']",9720.0,1.0
+The Pianist (2002),tt0253474,"['Biography', 'Drama', 'Music', 'War']",9000.0,2.0
+Godzilla (1998),tt0120685,"['Action', 'Sci-Fi', 'Thriller']",8340.0,3.0
+Fight Club (1999),tt0137523,"['Crime', 'Drama', 'Thriller']",8340.0,2.0
+The Conjuring (2013),tt1457767,"['Horror', 'Mystery', 'Thriller']",6720.0,2.0
+Top Gun (1986),tt0092099,"['Action', 'Drama']",6600.0,3.0
+Slackers (2002),tt0240900,"['Comedy', 'Romance']",5160.0,1.0
+Shrek (2001),tt0126029,"['Animation', 'Adventure', 'Comedy']",5400.0,3.0
+12 Monkeys (1995),tt0114746,"['Mystery', 'Sci-Fi', 'Thriller']",7740.0,3.0
+From Hell (2001),tt0120681,"['Crime', 'Horror', 'Mystery']",7320.0,3.0
+Dead Poets Society (1989),tt0097165,"['Comedy', 'Drama']",7680.0,1.0
+Once Upon a Time in America (1984),tt0087843,"['Crime', 'Drama']",13740.0,3.0
+Equilibrium (2002),tt0238380,"['Action', 'Drama', 'Sci-Fi', 'Thriller']",6420.0,1.0
+Star Wars: Episode II - Attack of the Clones (2002),tt0121765,"['Action', 'Adventure', 'Fantasy', 'Sci-Fi']",8520.0,2.0
+The Thing (1982),tt0084787,"['Horror', 'Mystery', 'Sci-Fi']",6540.0,2.0
+Interstellar (2014),tt0816692,"['Adventure', 'Drama', 'Sci-Fi']",10140.0,2.0
+Full Metal Jacket (1987),tt0093058,"['Drama', 'War']",6960.0,3.0
+Big Fish (2003),tt0319061,"['Adventure', 'Drama', 'Fantasy', 'Romance']",7500.0,2.0
+Cool Hand Luke (1967),tt0061512,"['Crime', 'Drama']",7620.0,3.0
+A Beautiful Mind (2001),tt0268978,"['Biography', 'Drama', 'Mystery']",8100.0,2.0
+Sholay (1978),,,,
+The 51st State (2001),tt0227984,"['Action', 'Comedy', 'Crime', 'Thriller']",5580.0,1.0
+Die Hard With a Vengeance (1995),tt0112864,"['Action', 'Adventure', 'Thriller']",7680.0,2.0
+Elf (2003),tt0319343,"['Adventure', 'Comedy', 'Family']",5820.0,1.0
+The Blue Lagoon (1980),tt0080453,"['Adventure', 'Drama', 'Romance']",6240.0,2.0
+Hellraiser (1987),tt0093177,"['Horror', 'Thriller']",5640.0,1.0
+Moonraker (1979),tt0079574,"['Action', 'Adventure', 'Sci-Fi']",7560.0,3.0
+Leon (1994),,,,
+Mystic River (2003),tt0327056,"['Crime', 'Drama', 'Mystery']",8280.0,2.0
+Sexy Beast (2000),tt0203119,"['Crime', 'Drama', 'Thriller']",5340.0,2.0
+Beetle Juice (1988),,,,
+Andaz Apna Apna (1994),tt0109117,"['Action', 'Comedy', 'Romance']",9600.0,2.0
+The Proposal (2009),tt1041829,"['Comedy', 'Drama', 'Romance']",6480.0,1.0
+The Shining (1980),tt0081505,"['Drama', 'Horror']",8760.0,3.0
+The Land That Time Forgot (1974),tt0073260,"['Adventure', 'Fantasy', 'Sci-Fi']",5460.0,3.0
+The Perfect Storm (2000),tt0177971,"['Action', 'Adventure', 'Drama']",7800.0,2.0
+Escape from LA (1996),,,,
+Shutter Island (2010),tt1130884,"['Drama', 'Mystery', 'Thriller']",8280.0,2.0
+JFK (1991),tt0102138,"['Drama', 'History', 'Thriller']",11340.0,3.0
+Barb Wire (1996),tt0115624,"['Action', 'Sci-Fi']",5880.0,3.0
+Oldboy (2003),tt0364569,"['Action', 'Drama', 'Mystery']",7200.0,3.0
+Carrie (1976),tt0074285,['Horror'],5880.0,2.0
+The Good the Bad and the Ugly (1966),,,,
+Speed 2: Cruise Control (1997),tt0120179,"['Action', 'Adventure', 'Crime', 'Romance', 'Thriller']",7260.0,3.0
+The Lord of the Rings: The Fellowship of the Ring (2001),tt0120737,"['Adventure', 'Drama', 'Fantasy']",10680.0,3.0
+The Talented Mr. Ripley (1999),tt0134119,"['Crime', 'Drama', 'Thriller']",8340.0,2.0
+Casino (1995),tt0112641,"['Crime', 'Drama']",10680.0,2.0
+A Time to Kill (1996),tt0117913,"['Crime', 'Drama', 'Thriller']",8940.0,2.0
+Blazing Saddles (1974),tt0071230,"['Comedy', 'Western']",5580.0,3.0
+The Doom Generation (1995),tt0112887,"['Comedy', 'Crime', 'Drama']",4980.0,1.0
+Armageddon (1998),tt0120591,"['Action', 'Adventure', 'Sci-Fi']",9060.0,3.0
+X-Men (2000),tt0120903,"['Action', 'Adventure', 'Sci-Fi']",6240.0,3.0
+Arachnophobia (1990),tt0099052,"['Comedy', 'Horror', 'Thriller']",6540.0,3.0
+Stir Crazy (1980),tt0081562,"['Comedy', 'Crime']",6660.0,2.0
+Billy Jack (1971),tt0066832,"['Action', 'Drama']",6840.0,2.0
+The Silencers (1966),tt0060980,"['Action', 'Adventure', 'Comedy']",6120.0,2.0
+The Three Musketeers (1993),tt0108333,"['Action', 'Adventure', 'Romance']",6300.0,2.0
+Girl Interrupted (1999),,,,
+Finding Nemo (2003),tt0266543,"['Animation', 'Adventure', 'Comedy']",6000.0,3.0
+Tropic of Cancer (1970),tt0066494,"['Biography', 'Drama']",5220.0,3.0
+The Sixth Sense (1999),tt0167404,"['Drama', 'Mystery', 'Thriller']",6420.0,1.0
+I Know What You Did Last Summer (1997),tt0119345,"['Horror', 'Mystery']",6060.0,2.0
+Indiana Jones and the Kingdom of the Crystal Skull (2008),tt0367882,"['Action', 'Adventure']",7320.0,3.0
+Divine Secrets of the Ya-Ya Sisterhood (2002),tt0279778,['Drama'],6960.0,3.0
+Ace Ventura: When Nature Calls (1995),tt0112281,"['Adventure', 'Comedy', 'Crime']",5400.0,2.0
+Dances with Wolves (1990),tt0099348,"['Adventure', 'Drama', 'Western']",10860.0,1.0
+Date and Switch (2014),tt1878942,"['Comedy', 'Drama', 'Romance']",5460.0,1.0
+The Intouchables (2011),tt1675434,"['Comedy', 'Drama']",6720.0,3.0
+Mrs. Doubtfire (1993),tt0107614,"['Comedy', 'Drama', 'Family']",7500.0,3.0
+Ghostbusters (2016),tt1289401,"['Action', 'Comedy', 'Fantasy', 'Sci-Fi']",7020.0,3.0
+Almost Famous (2000),tt0181875,"['Adventure', 'Comedy', 'Drama', 'Music']",7320.0,1.0
+Blade Runner (1982),tt0083658,"['Action', 'Drama', 'Sci-Fi', 'Thriller']",7020.0,3.0
+Unforgiven (1992),tt0105695,"['Drama', 'Western']",7800.0,1.0
+Rosemary's Baby (1968),tt0063522,"['Drama', 'Horror']",8220.0,2.0
+Cheaper by the Dozen (2003),tt0349205,"['Comedy', 'Family']",5880.0,3.0
+Can't Hardly Wait (1998),tt0127723,"['Comedy', 'Romance']",6000.0,2.0
+Die Another Day (2002),tt0246460,"['Action', 'Adventure', 'Thriller']",7980.0,3.0
+Toy Story 2 (1999),tt0120363,"['Animation', 'Adventure', 'Comedy', 'Family', 'Fantasy']",5520.0,3.0
+Transformers: Age of Extinction (2014),tt2109248,"['Action', 'Adventure', 'Comedy', 'Sci-Fi', 'Thriller']",9900.0,1.0
+Like Stars on Earth (2007),tt0986264,"['Drama', 'Family']",9720.0,1.0
+Terminator 2: Judgement Day (1991),,,,
+25th Hour (2002),tt0307901,['Drama'],8100.0,1.0
+Who's Afraid of Virginia Woolf (1966),,,,
+Adaption (2002),,,,
+Life is Beautiful (1997),tt0118799,"['Comedy', 'Drama', 'Romance', 'War']",6960.0,2.0
+Room (2015),tt3170832,"['Drama', 'Thriller']",7080.0,1.0
+Scream (1996),tt0117571,"['Horror', 'Mystery']",6660.0,1.0
+The Evil Dead (1981),tt0083907,['Horror'],5100.0,1.0
+Gangs of New York (2002),tt0217505,"['Crime', 'Drama']",10020.0,3.0
+Stand By Me (1986),tt0092005,"['Adventure', 'Comedy', 'Drama']",5340.0,3.0
+The Vow (2012),tt1606389,"['Drama', 'Romance']",6240.0,3.0
+Toy Story 3 (2010),tt0435761,"['Animation', 'Adventure', 'Comedy', 'Family', 'Fantasy']",6180.0,3.0
+The Matrix Reloaded (2003),tt0234215,"['Action', 'Sci-Fi']",8280.0,2.0
+Once Upon a Time in the West (1968),tt0064116,"['Drama', 'Western']",9960.0,3.0
+Star Wars: Episode V - The Empire Strikes Back (1980),tt0080684,"['Action', 'Adventure', 'Fantasy', 'Sci-Fi']",7440.0,3.0
+War Games (1983),,,,
+Kill Bill: Vol. 2 (2004),tt0378194,"['Action', 'Crime', 'Thriller']",8220.0,2.0
+Saving Private Ryan (1998),tt0120815,"['Drama', 'War']",10140.0,1.0
+Just Married (2003),tt0305711,"['Comedy', 'Romance']",5700.0,1.0
+Being John Malkovich (1999),tt0120601,"['Comedy', 'Drama', 'Fantasy']",6780.0,1.0
+Father's Day (1997),,,,
+Batman (1989),tt0096895,"['Action', 'Adventure']",7560.0,3.0
+Se7en (1995),tt0114369,"['Crime', 'Drama', 'Mystery', 'Thriller']",7620.0,1.0
+Happy Gilmore (1996),tt0116483,"['Comedy', 'Sport']",5520.0,2.0
+My Big Fat Greek Wedding (2002),tt0259446,"['Comedy', 'Drama', 'Romance']",5700.0,1.0
+Boomerang (1992),tt0103859,"['Comedy', 'Drama', 'Romance']",7020.0,3.0
+The Avengers (2012),tt0848228,"['Action', 'Sci-Fi']",8580.0,2.0
+In America (2002),tt0298845,['Drama'],6300.0,3.0
+Tarzan (1999),tt0120855,"['Animation', 'Adventure', 'Comedy']",5280.0,3.0
+Scent of a Woman (1992),tt0105323,['Drama'],9360.0,3.0
+The Cabin in the Woods (2012),,,,
+Spider-Man (2002),tt0145487,"['Action', 'Adventure', 'Sci-Fi']",7260.0,3.0
+Broken Arrow (1996),tt0115759,"['Action', 'Adventure', 'Thriller']",6480.0,1.0
+Baby Geniuses (1999),tt0118665,"['Comedy', 'Crime', 'Family', 'Sci-Fi']",5820.0,3.0
+Battlefield Earth (2000),tt0185183,"['Action', 'Adventure', 'Sci-Fi']",7020.0,3.0
+The Firm (1993),tt0106918,"['Drama', 'Mystery', 'Thriller']",9240.0,3.0
+De-Lovely (2004),tt0352277,"['Biography', 'Drama', 'Music']",7500.0,1.0
+Die Hard (1988),tt0095016,"['Action', 'Thriller']",7920.0,3.0
+The Lord of the Rings: The Two Towers (2002),tt0167261,"['Adventure', 'Drama', 'Fantasy']",10740.0,3.0
+The Blair Witch Project (1999),tt0185937,"['Horror', 'Mystery']",4860.0,3.0
+Judge Dredd (1995),tt0113492,"['Action', 'Crime', 'Sci-Fi', 'Thriller']",5760.0,3.0
+10 Things I Hate About You (1999),tt0147800,"['Comedy', 'Drama', 'Romance']",5820.0,3.0
+The Insider (1999),tt0140352,"['Biography', 'Drama', 'History', 'Thriller']",9420.0,3.0
+Erik the Viking (1989),tt0097289,"['Adventure', 'Comedy', 'Fantasy']",6420.0,1.0
+Pirates of the Caribbean: At World's End (2007),tt0449088,"['Action', 'Adventure', 'Fantasy']",10140.0,3.0
+The Ring (2002),tt0298130,"['Horror', 'Mystery']",6900.0,3.0
+The Truman Show (1998),tt0120382,"['Comedy', 'Drama']",6180.0,1.0
+Forrest Gump (1994),tt0109830,"['Drama', 'Romance']",8520.0,2.0
+I.Q. (1994),tt0110099,"['Comedy', 'Romance']",6000.0,2.0
+Goodfellas (1990),tt0099685,"['Biography', 'Crime', 'Drama']",8700.0,2.0
+Uptown Girls (2003),tt0263757,"['Comedy', 'Drama', 'Romance']",5520.0,3.0
+Beauty and the Beauty (1991),,,,
+Black Hawk Down (2001),tt0265086,"['Action', 'Drama', 'History']",8640.0,2.0
+Knight and Day (2010),tt1013743,"['Action', 'Adventure', 'Comedy']",6540.0,1.0
+The Shawshank Redemption (1994),tt0111161,['Drama'],8520.0,2.0
+Sleepy Hollow (1999),tt0162661,"['Fantasy', 'Horror', 'Mystery']",6300.0,3.0
+The Holiday (2006),tt0457939,"['Comedy', 'Romance']",8160.0,1.0
+Sixteen Candles (1984),tt0088128,"['Comedy', 'Romance']",5580.0,1.0
+10000 BC (2008),,,,
+Austin Powers: The Spy Who Shagged Me (1999),tt0145660,"['Action', 'Adventure', 'Comedy']",5700.0,2.0
+The Lion King (1994),tt0110357,"['Animation', 'Adventure', 'Drama', 'Family', 'Musical']",5280.0,3.0
+Child's Play (1988),tt0094862,"['Horror', 'Thriller']",5220.0,3.0
+Anger Management (2002),,,,
+Angels in the Outfield (1994),tt0109127,"['Comedy', 'Drama', 'Family']",6120.0,3.0
+Wild Wild West (1999),tt0120891,"['Action', 'Comedy', 'Sci-Fi']",6360.0,3.0
+Split (2016),tt4972582,"['Horror', 'Thriller']",7020.0,1.0
+Bad Boys (1995),tt0112442,"['Action', 'Comedy', 'Crime', 'Thriller']",7140.0,3.0
+The Prestige (2006),tt0482571,"['Drama', 'Mystery', 'Sci-Fi', 'Thriller']",7800.0,3.0
+American Graffiti (1973),tt0069704,"['Comedy', 'Drama']",6600.0,3.0
+Air Force One (1997),tt0118571,"['Action', 'Crime', 'Drama', 'Thriller']",7440.0,1.0
+Harry Potter and the Sorcerer's Stone (2001),tt0241527,"['Adventure', 'Family', 'Fantasy']",9120.0,2.0
+Close Encounters of the Third Kind (1977),tt0075860,"['Drama', 'Sci-Fi']",8280.0,3.0
+Hollow Man (2000),tt0164052,"['Action', 'Horror', 'Sci-Fi', 'Thriller']",6720.0,2.0
+Point Break (1991),tt0102685,"['Action', 'Crime', 'Thriller']",7320.0,2.0
+I Robot (2004),,,,
+Batman: The Dark Knight (2008),,,,
+Ghost (1990),tt0099653,"['Drama', 'Fantasy', 'Romance', 'Thriller']",7560.0,1.0
+A Bug's Life (1998),tt0120623,"['Animation', 'Adventure', 'Comedy', 'Family']",5700.0,3.0
+American Pie (1999),tt0163651,['Comedy'],5700.0,1.0
+Daredevil (2003),tt0287978,"['Action', 'Crime', 'Drama']",6180.0,1.0
+The Bandit (1996),tt0116231,"['Crime', 'Drama']",7680.0,1.0
+Grease (1978),tt0077631,"['Comedy', 'Musical', 'Romance']",6600.0,3.0
+The Girl Next Door (2004),tt0265208,"['Comedy', 'Drama', 'Romance']",6540.0,3.0
+The Godfather (1972),tt0068646,"['Crime', 'Drama']",10500.0,2.0
+Cloverfield (2008),tt1060277,"['Action', 'Horror', 'Sci-Fi']",5100.0,1.0
+Rush Hour 2 (2001),tt0266915,"['Action', 'Comedy', 'Crime', 'Thriller']",5400.0,2.0
+Bruce Almighty (2003),tt0315327,"['Comedy', 'Fantasy']",6060.0,3.0
+Girl With a Pearl Earring (2003),tt0335119,"['Biography', 'Drama', 'Romance']",6000.0,2.0
+Grown Ups 2 (2013),tt2191701,['Comedy'],6060.0,3.0
+Best Laid Plans (1999),tt0133412,"['Crime', 'Drama', 'Thriller']",5520.0,1.0
+Bram Stoker's Dracula (1992),tt0103874,"['Fantasy', 'Horror', 'Romance']",7680.0,2.0
+Fahrenheit 9/11 (2004),tt0361596,"['Documentary', 'Drama', 'War']",7320.0,1.0
+Donnie Darko (2001),tt0246578,"['Drama', 'Mystery', 'Sci-Fi', 'Thriller']",6780.0,1.0
+Bad Teacher (2011),tt1284575,"['Comedy', 'Romance']",5520.0,2.0
+Cable Guy (1996),,,,
+Ice Age (2002),tt0268380,"['Animation', 'Adventure', 'Comedy', 'Family']",4860.0,3.0
+Misery (1990),tt0100157,"['Drama', 'Thriller']",6420.0,2.0
+8 Mile (2002),tt0298203,"['Drama', 'Music']",6600.0,1.0
+Harry Potter and the Deathly Hallows: Part 2 (2011),tt1201607,"['Adventure', 'Family', 'Fantasy', 'Mystery']",7800.0,2.0
+Ouija: Origin of Evil (2016),tt4361050,"['Drama', 'Horror', 'Mystery']",5940.0,3.0
+The Deer Hunter (1978),tt0077416,"['Drama', 'War']",10980.0,3.0
+There's Something About Mary (1998),tt0129387,"['Comedy', 'Romance']",7140.0,3.0
+Zoolander (2001),tt0196229,['Comedy'],5400.0,3.0
+The Core (2003),tt0298814,"['Action', 'Adventure', 'Sci-Fi']",8100.0,2.0
+Spirited Away (2001),tt0245429,"['Animation', 'Adventure', 'Family']",7440.0,1.0
+Rocky (1976),tt0075148,"['Drama', 'Sport']",7200.0,1.0
+Traffic (2000),tt0181865,"['Crime', 'Drama', 'Thriller']",8820.0,2.0
+Monsters  Inc.(2001),,,,
+Thoroughly Modern Millie (1967),tt0062362,"['Comedy', 'Musical', 'Romance']",8280.0,1.0
+Requiem for a Dream (2000),tt0180093,['Drama'],6120.0,2.0
+Downfall (2004),tt0363163,"['Biography', 'Drama', 'History', 'War']",9360.0,3.0
+L.A. Confidential (1997),tt0119488,"['Crime', 'Drama', 'Mystery', 'Thriller']",8280.0,3.0
+Chicago (2002),tt0299658,"['Comedy', 'Crime', 'Musical']",6780.0,3.0
+Star Wars: Episode 1 - The Phantom Menace (1999),,,,
+Rain Man (1988),tt0095953,['Drama'],7980.0,2.0
+What Lies Beneath (2000),tt0161081,"['Drama', 'Horror', 'Mystery']",7800.0,2.0
+Toy Story (1995),tt0114709,"['Animation', 'Adventure', 'Comedy', 'Family', 'Fantasy']",4860.0,3.0
+Boy's Don't Cry (1999),,,,
+Pearl Harbor (2001),tt0213149,"['Action', 'Drama', 'Romance', 'War']",10980.0,1.0
+A.I. Artificial Intelligence (2001),tt0212720,"['Adventure', 'Drama', 'Sci-Fi']",8760.0,3.0
+The Sting (1973),tt0070735,"['Comedy', 'Crime', 'Drama']",7740.0,1.0
+Scream 3 (2000),tt0134084,"['Horror', 'Mystery']",6960.0,2.0
+Congo (1995),tt0112715,"['Action', 'Adventure', 'Mystery']",6540.0,2.0
+Bowling For Columbine (2002),tt0310793,"['Documentary', 'Crime', 'Drama']",7200.0,1.0
+What Women Want (2000),tt0207201,"['Comedy', 'Fantasy', 'Romance']",7620.0,3.0
+Home Alone (1990),tt0099785,"['Comedy', 'Family']",6180.0,1.0
+How the Grinch Stole Christmas (2000),tt0170016,"['Comedy', 'Family', 'Fantasy']",6240.0,3.0
+The Straight Story (1999),tt0166896,"['Biography', 'Drama']",6720.0,2.0
+The Hulk (2003),,,,
+Gigli (2002),,,,
+Rocky V (1991),,,,
+The Visit (2015),tt3567288,"['Horror', 'Mystery', 'Thriller']",5640.0,1.0
+Titanic (1997),tt0120338,"['Drama', 'Romance']",11640.0,1.0
+A Clockwork Orange (1971),tt0066921,"['Crime', 'Sci-Fi']",8160.0,2.0
+Charlie's Angels (2000),tt0160127,"['Action', 'Adventure', 'Comedy', 'Crime', 'Thriller']",5880.0,3.0
+Friday the 13th Part III (1982),tt0083972,"['Horror', 'Thriller']",5700.0,3.0
+Hannibal (2001),tt0212985,"['Crime', 'Drama', 'Thriller']",7860.0,3.0
+Pulp Fiction (1994),tt0110912,"['Crime', 'Drama']",9240.0,2.0
+Crimson Tide (1995),tt0112740,"['Action', 'Drama', 'Thriller']",6960.0,2.0
+Blow (2001),tt0221027,"['Biography', 'Crime', 'Drama']",7440.0,3.0
+Ran (1985),tt0089881,"['Action', 'Drama', 'War']",9600.0,3.0
+Mulholland Dr. (2001),tt0166924,"['Drama', 'Mystery', 'Thriller']",8820.0,1.0
+Apocalypse Now (1979),tt0078788,"['Drama', 'Mystery', 'War']",8820.0,3.0
+Cinema Paradiso (1988),tt0095765,"['Drama', 'Romance']",10440.0,2.0
+Double Jeopardy (1999),tt0150377,"['Crime', 'Drama', 'Mystery', 'Thriller']",6300.0,2.0
+The Big Lebowski (1998),tt0118715,"['Comedy', 'Crime']",7020.0,2.0
+The Matrix (1999),tt0133093,"['Action', 'Sci-Fi']",8160.0,2.0
+The Lord of the Rings: The Return of the King (2003),tt0167260,"['Adventure', 'Drama', 'Fantasy']",12060.0,3.0
+Reservoir Dogs (1992),tt0105236,"['Crime', 'Thriller']",5940.0,2.0
+Heavy Traffic (1973),tt0070165,"['Animation', 'Comedy', 'Drama']",4620.0,1.0
+Memento (2000),tt0209144,"['Drama', 'Mystery', 'Thriller']",6780.0,2.0
+Dogville (2003),tt0276919,"['Crime', 'Drama']",10260.0,1.0
+American Psycho (2000),tt0144084,"['Crime', 'Drama', 'Horror']",6120.0,3.0
+Kill Bill: Vol. 1 (2003),tt0266697,"['Action', 'Crime', 'Thriller']",6660.0,2.0
+The Fugitive (1993),tt0106977,"['Action', 'Crime', 'Drama', 'Mystery', 'Thriller']",7800.0,3.0
+Bend it Like Beckham (2002),tt0286499,"['Comedy', 'Drama', 'Romance', 'Sport']",6720.0,3.0
+Austin Powers in Goldmember (2002),tt0295178,"['Action', 'Adventure', 'Comedy']",5640.0,2.0
+The Mummy Returns (2001),tt0209163,"['Action', 'Adventure', 'Fantasy', 'Thriller']",7800.0,1.0
+The Nightmare Before Christmas (1993),tt0107688,"['Animation', 'Adventure', 'Family', 'Fantasy', 'Musical']",4560.0,3.0
+La La Land (2016),tt3783958,"['Comedy', 'Drama', 'Music']",7680.0,1.0
+Flowers in the Attic (1987),tt0093036,"['Drama', 'Mystery', 'Thriller']",5580.0,2.0
+28 Days Later (2002),tt0289043,"['Drama', 'Horror', 'Sci-Fi', 'Thriller']",6780.0,1.0
+The Princess Bride (1987),tt0093779,"['Adventure', 'Comedy', 'Family', 'Fantasy', 'Romance']",5880.0,1.0
+The Green Mile (1999),tt0120689,"['Crime', 'Drama', 'Fantasy', 'Mystery']",11340.0,2.0
+Predator (1987),tt0093773,"['Action', 'Adventure', 'Horror', 'Sci-Fi']",6420.0,2.0
+A Night at the Roxbury (1998),tt0120770,"['Comedy', 'Music', 'Romance']",4920.0,3.0
+Ed Wood (1994),tt0109707,"['Biography', 'Comedy', 'Drama']",7620.0,3.0
+Aliens (1986),tt0090605,"['Action', 'Adventure', 'Horror']",8220.0,3.0
+Meet the Parents (2000),tt0212338,"['Comedy', 'Romance']",6480.0,3.0
+Independence Day (1996),tt0116629,"['Action', 'Adventure', 'Sci-Fi']",8700.0,2.0
+Who Framed Roger Rabbit (1988),tt0096438,"['Animation', 'Adventure', 'Comedy', 'Crime', 'Family', 'Fantasy', 'Mystery']",6240.0,3.0
+As Good as it Gets (1997),tt0119822,"['Comedy', 'Drama', 'Romance']",8340.0,2.0
+Butch Cassidy and the Sundance Kid (1969),tt0064115,"['Adventure', 'Biography', 'Crime', 'Drama', 'Western']",6600.0,1.0
+You're Next (2011),tt1853739,"['Drama', 'Horror', 'Mystery', 'Thriller']",5700.0,1.0
+The Final Conflict (1981),tt0082377,['Horror'],6480.0,2.0
+City of God (2002),tt0317248,"['Crime', 'Drama']",7800.0,2.0
+Star Wars: Episode VII - The Force Awakens (2015),tt2488496,"['Action', 'Adventure', 'Sci-Fi']",8280.0,3.0
+The Transporter (2002),tt0293662,"['Action', 'Crime', 'Thriller']",5520.0,2.0
+Cast Away (2000),tt0162222,"['Adventure', 'Drama', 'Romance']",8580.0,1.0
+Bad Boys 2 (2003),,,,
+The Babadook (2014),tt2321549,"['Drama', 'Horror', 'Mystery']",5640.0,1.0
+Saw (2004),tt0387564,"['Horror', 'Mystery', 'Thriller']",6180.0,2.0
+Star Wars: Episode VI - The Return of the Jedi (1983),,,,
+Scary Movie (2000),tt0175142,['Comedy'],5280.0,3.0
+E.T. The Extra-Terrestrial (1982),tt0083866,"['Adventure', 'Family', 'Sci-Fi']",6900.0,1.0
+American History X (1998),tt0120586,"['Crime', 'Drama']",7140.0,1.0
+FeardotCom (2002),tt0295254,"['Crime', 'Horror', 'Thriller']",6060.0,3.0
+Halloween (1978),tt0077651,"['Horror', 'Thriller']",5460.0,2.0
+Along Came a Spider (2002),,,,
+The Mist (2007),tt0884328,"['Horror', 'Sci-Fi', 'Thriller']",7560.0,2.0
+Aladdin (1992),tt0103639,"['Animation', 'Adventure', 'Comedy']",5400.0,3.0
+Pirates of the Caribbean: The Curse of the Black Pearl (2003),tt0325980,"['Action', 'Adventure', 'Fantasy']",8580.0,3.0
+Men in Black (1997),tt0119654,"['Action', 'Adventure', 'Comedy']",5880.0,2.0
+Eternal Sunshine of the Spotless Mind (2004),tt0338013,"['Drama', 'Romance', 'Sci-Fi']",6480.0,3.0
+Ocean's Eleven (2001),tt0240772,"['Crime', 'Thriller']",6960.0,3.0
+Men in Black II (2002),tt0120912,"['Action', 'Adventure', 'Comedy', 'Mystery', 'Sci-Fi']",5280.0,3.0
+Cocktail (1988),tt0094889,"['Comedy', 'Drama', 'Romance']",6240.0,1.0
+The Wolf of Wall Street (2013),tt0993846,"['Biography', 'Comedy', 'Crime', 'Drama']",10800.0,2.0
+The Game (1997),tt0119174,"['Drama', 'Mystery', 'Thriller']",7740.0,2.0
+Red Sonja (1985),tt0089893,"['Action', 'Adventure', 'Fantasy']",5340.0,3.0
+One Flew Over the Cuckoo's Nest (1975),tt0073486,['Drama'],7980.0,3.0
+Freddy Got Fingered (2001),tt0240515,['Comedy'],5220.0,2.0
+The Village (2004),tt0368447,"['Drama', 'Mystery', 'Thriller']",6480.0,1.0
+Miller's Crossing (1990),tt0100150,"['Crime', 'Drama', 'Thriller']",6900.0,3.0
+My Best Friend's Wedding (1997),tt0119738,"['Comedy', 'Drama', 'Romance']",6300.0,1.0
+Iron Man 3 (2013),tt1300854,"['Action', 'Adventure', 'Sci-Fi']",7800.0,3.0
+Big Daddy (1999),tt0142342,"['Comedy', 'Drama']",5580.0,3.0
+Suspiria (1977),tt0076786,['Horror'],5520.0,3.0
+The Passenger (1975),tt0073580,"['Drama', 'Thriller']",7560.0,3.0
+The Station Agent (2003),tt0340377,"['Comedy', 'Drama']",5340.0,1.0
+Jurassic Park (1993),tt0107290,"['Action', 'Adventure', 'Sci-Fi']",7620.0,2.0
+Captain America: Civil War (2016),tt3498820,"['Action', 'Sci-Fi']",8820.0,3.0
+A Perfect Murder (1998),tt0120787,"['Crime', 'Drama', 'Thriller']",6420.0,2.0
+Analyze That (2002),tt0289848,"['Comedy', 'Crime']",5760.0,3.0
+Braveheart (1995),tt0112573,"['Biography', 'Drama', 'War']",10680.0,1.0
+Inception (2010),tt1375666,"['Action', 'Adventure', 'Sci-Fi', 'Thriller']",8880.0,1.0
+Groundhog Day (1993),tt0107048,"['Comedy', 'Drama', 'Fantasy', 'Romance']",6060.0,2.0
+The Lookout (2007),tt0427470,"['Crime', 'Drama', 'Thriller']",5940.0,1.0
+21 Grams (2003),tt0315733,"['Crime', 'Drama', 'Thriller']",7440.0,1.0
+Gladiator (2000),tt0172495,"['Action', 'Adventure', 'Drama']",9300.0,3.0
+Midnight Cowboy (1969),tt0064665,['Drama'],6780.0,2.0
+Fatal Attraction (1987),tt0093010,"['Drama', 'Thriller']",7140.0,1.0
+House of Sand and Fog (2003),tt0315983,"['Crime', 'Drama']",7560.0,3.0
+On Golden Pond (1981),tt0082846,['Drama'],6540.0,1.0
+The Mummy (1999),tt0120616,"['Action', 'Adventure', 'Fantasy']",7440.0,3.0
+The Descent (2005),tt0435625,"['Adventure', 'Horror', 'Thriller']",5940.0,1.0
+Runaway Bride (1999),tt0163187,"['Comedy', 'Romance']",6960.0,2.0
+Harry Potter and the Goblet of Fire (2005),tt0330373,"['Adventure', 'Family', 'Fantasy', 'Mystery']",9420.0,2.0
+Gods and Generals (2003),tt0279111,"['Biography', 'Drama', 'History', 'War']",13140.0,2.0
+My Father and My Son (2005),tt0476735,"['Drama', 'Family']",6720.0,1.0
+X-Men 2 (2003),,,,
+The Usual Suspects (1995),tt0114814,"['Crime', 'Drama', 'Mystery', 'Thriller']",6360.0,1.0
+The Mask (1994),tt0110475,"['Comedy', 'Crime', 'Fantasy']",6060.0,3.0
+Jaws (1975),tt0073195,"['Adventure', 'Horror', 'Thriller']",7440.0,2.0
+Harry Potter and the Chamber of Secrets (2002),tt0295297,"['Adventure', 'Family', 'Fantasy', 'Mystery']",9660.0,2.0
+Patton (1970),tt0066206,"['Biography', 'Drama', 'War']",10320.0,3.0
+Anaconda (1997),tt0118615,"['Action', 'Adventure', 'Horror', 'Thriller']",5340.0,3.0
+Twister (1996),tt0117998,"['Action', 'Adventure', 'Thriller']",6780.0,2.0
+MacArthur (1977),tt0076342,"['Biography', 'Drama', 'History', 'War']",7800.0,2.0
