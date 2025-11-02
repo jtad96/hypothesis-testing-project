@@ -1,4 +1,4 @@
-# hypothesis-testing-project
+# hypothesis-testing-project (in-progress)
 
 ### Project Members
 
@@ -9,8 +9,8 @@
 
 ### Project Timeline
 
-1. Week 1 - Questions 3, 5, 7, 9, 1, 2
-2. Week 2 - Questions 4, 6, 8, 10, extra credit
+1. Week 1 - Questions 3, 5, 7, 9, 1, 2 (questions are completed)
+2. Week 2 - Questions 4, 6, 8, 10, extra credit (question 8 completed)
 3. Week 3 - Creating the report; Any cleanup tasks; Combine code
 
 ### Ownership
